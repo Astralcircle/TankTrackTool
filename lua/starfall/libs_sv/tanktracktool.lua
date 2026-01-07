@@ -272,7 +272,7 @@ return function ( instance )
     end
 
     --- Returns a table containing the link names
-    -- @return The returned table
+    -- @return table The returned table
     function ents_methods:tanktracktoolGetLinkNames()
         CheckType( self, ents_metatable )
         local ent = unwrap( self )
