@@ -7,6 +7,7 @@ ENT.Type      = "anim"
 ENT.Spawnable = true
 ENT.AdminOnly = false
 ENT.Category  = "Tank Track Tool"
+ENT.PrintName = "Suspension Spring"
 
 local tanktracktool = tanktracktool
 
