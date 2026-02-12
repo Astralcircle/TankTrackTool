@@ -10,7 +10,6 @@ ENT.Type      = "anim"
 ENT.Spawnable = false
 ENT.AdminOnly = true
 ENT.Category  = "Tank Track Tool"
-ENT.PrintName = "Tank Track Tool"
 
 local tanktracktool = tanktracktool
 
